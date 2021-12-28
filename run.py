@@ -103,7 +103,7 @@ def get_last_5_entries_sales():
 
 def calculate_stock_data(data):
     """
-    Calculating the average stock for each item type, adding 10%
+    Calculate the average stock for each item type, adding 10%
     """
     print("Calculating stock data...\n")
     new_stock_data = []
